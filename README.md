@@ -88,7 +88,6 @@ UML documentation (use case with include/extend stereotypes), automated PDF gene
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Kayque2012&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=888888"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayque2012&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888"/>
 
 </div>
