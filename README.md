@@ -88,14 +88,14 @@ UML documentation (use case with include/extend stereotypes), automated PDF gene
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=888888"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Kayque2012&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=888888"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayque2012&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USERNAME&theme=github-dark-blue&hide_border=true&background=0D1117&fire=ffffff&ring=444444&currStreakLabel=ffffff&sideLabels=888888&dates=555555)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kayque2012&theme=github-dark-blue&hide_border=true&background=0D1117&fire=ffffff&ring=444444&currStreakLabel=ffffff&sideLabels=888888&dates=555555)](https://git.io/streak-stats)
 
 </div>
 
@@ -103,6 +103,6 @@ UML documentation (use case with include/extend stereotypes), automated PDF gene
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=SEU_USERNAME&color=444444&style=flat-square&label=profile+views)
+![](https://komarev.com/ghpvc/?username=Kayque2012&color=444444&style=flat-square&label=profile+views)
 
 </div>
