@@ -4,7 +4,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=0A66C2)]([https://linkedin.com](https://www.linkedin.com/in/kayque-duarte-b24313361/))
 [![Gmail](https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
 
 </div>
